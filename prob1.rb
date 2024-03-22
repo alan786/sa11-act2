@@ -4,5 +4,5 @@ def extract_hashtags(text)
     hashtags.flatten
   end
   
-  p extract_hashtags("Love this #beautiful day! #sunny")
+p extract_hashtags("Love this #beautiful day! #sunny")
   
